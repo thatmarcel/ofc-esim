@@ -1,0 +1,9 @@
+Package: com.thatmarcel.tweaks.ofc-esim
+Name: ofc-esim
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Of course I have eSIM support...
+Maintainer: thatmarcel
+Author: thatmarcel
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
